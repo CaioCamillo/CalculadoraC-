@@ -1,0 +1,14 @@
+c:\Users\caioc\MeuApp\Caculator\obj\Debug\net8.0\Caculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\caioc\MeuApp\Caculator\obj\Debug\net8.0\Caculator.AssemblyInfoInputs.cache
+c:\Users\caioc\MeuApp\Caculator\obj\Debug\net8.0\Caculator.AssemblyInfo.cs
+c:\Users\caioc\MeuApp\Caculator\obj\Debug\net8.0\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\caioc\MeuApp\Caculator\bin\Debug\net8.0\Caculator.exe
+C:\Users\caioc\MeuApp\Caculator\bin\Debug\net8.0\Caculator.deps.json
+C:\Users\caioc\MeuApp\Caculator\bin\Debug\net8.0\Caculator.runtimeconfig.json
+C:\Users\caioc\MeuApp\Caculator\bin\Debug\net8.0\Caculator.dll
+C:\Users\caioc\MeuApp\Caculator\bin\Debug\net8.0\Caculator.pdb
+C:\Users\caioc\MeuApp\Caculator\obj\Debug\net8.0\Caculator.dll
+C:\Users\caioc\MeuApp\Caculator\obj\Debug\net8.0\refint\Caculator.dll
+C:\Users\caioc\MeuApp\Caculator\obj\Debug\net8.0\Caculator.pdb
+C:\Users\caioc\MeuApp\Caculator\obj\Debug\net8.0\Caculator.genruntimeconfig.cache
+C:\Users\caioc\MeuApp\Caculator\obj\Debug\net8.0\ref\Caculator.dll
