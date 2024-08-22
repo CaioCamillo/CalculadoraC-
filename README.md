@@ -6,6 +6,7 @@ Este é um projeto de uma Calculadora simples feita em C#. A calculadora oferece
 - **Sair**: Opção para encerrar o programa.
 ## Interface do Usuário
 A interface do usuário é em modo texto, como ilustrado abaixo:
+
 ```plaintext
 O que deseja fazer?
 1 - Soma
@@ -14,8 +15,8 @@ O que deseja fazer?
 4 - Multiplicacao
 5 - Sair
 ------------
-Selecione uma opcao: 
-
+Selecione uma opcao:
+```
 
 ## Tecnologias Utilizadas
 - **C#**: Linguagem de programação utilizada para desenvolver a lógica da calculadora.
@@ -28,4 +29,7 @@ Selecione uma opcao:
 Nome: Caio Camillo  
 Email: caiocamillo89@gmail.com  
 GitHub: [CaioCamillo](https://github.com/CaioCamillo)
+
+![image](https://github.com/user-attachments/assets/24f996ad-17a0-458e-8e5e-be66c8271ff0)
+
 
