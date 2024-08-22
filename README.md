@@ -30,6 +30,7 @@ Nome: Caio Camillo
 Email: caiocamillo89@gmail.com  
 GitHub: [CaioCamillo](https://github.com/CaioCamillo)
 
-![image](https://github.com/user-attachments/assets/24f996ad-17a0-458e-8e5e-be66c8271ff0)
+![image](https://github.com/user-attachments/assets/f65c48de-a506-4ea2-963d-93ae9ee6bc47)
+
 
 
